@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="myIpLocation">Introduzca la dirección IP</string>
+    <string name="resultados_de_busqueda">Resultados de busqueda</string>
+</resources>
